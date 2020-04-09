@@ -1,6 +1,5 @@
 PODS:
   - Alamofire (5.1.0)
-  - Kingfisher (4.10.1)
   - ModelMapper (10.0.0):
     - ModelMapper/Core (= 10.0.0)
   - ModelMapper/Core (10.0.0)
@@ -13,31 +12,24 @@ PODS:
     - Moya (~> 14.0)
   - Moya/Core (14.0.0):
     - Alamofire (~> 5.0)
-  - UPCarouselFlowLayout (1.1.2)
 
 DEPENDENCIES:
-  - Kingfisher (= 4.10.1)
   - Moya
   - Moya-ModelMapper
-  - UPCarouselFlowLayout
 
 SPEC REPOS:
   trunk:
     - Alamofire
-    - Kingfisher
     - ModelMapper
     - Moya
     - Moya-ModelMapper
-    - UPCarouselFlowLayout
 
 SPEC CHECKSUMS:
   Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
-  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
   ModelMapper: a8dbf2a2003bf626627b9fe7c9a22b3405a30404
   Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
   Moya-ModelMapper: e3a478500921e7299804dc1ac550f1ebf3228ade
-  UPCarouselFlowLayout: 4c7d2c43a10ebb1597bde502a53699d378341dad
 
-PODFILE CHECKSUM: de3c4d1c6f7b1395d9fe6a604acd6349ae4ff3f3
+PODFILE CHECKSUM: 06e60ec4cf1afb4903b86f3299597336764aa148
 
-COCOAPODS: 1.9.0
+COCOAPODS: 1.9.1

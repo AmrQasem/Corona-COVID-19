@@ -1,7 +1,0 @@
-${PODS_ROOT}/Target Support Files/Pods-Corona - COVID-19/Pods-Corona - COVID-19-frameworks.sh
-${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
-${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
-${BUILT_PRODUCTS_DIR}/ModelMapper/Mapper.framework
-${BUILT_PRODUCTS_DIR}/Moya/Moya.framework
-${BUILT_PRODUCTS_DIR}/Moya-ModelMapper/Moya_ModelMapper.framework
-${BUILT_PRODUCTS_DIR}/UPCarouselFlowLayout/UPCarouselFlowLayout.framework

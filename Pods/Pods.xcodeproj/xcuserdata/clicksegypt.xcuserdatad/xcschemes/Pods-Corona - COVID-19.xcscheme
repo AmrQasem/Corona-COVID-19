@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "322A61CFE0E90A954AA5724D2A1AB17A"
-               BuildableName = "Pods-Corona - COVID-19.framework"
+               BuildableName = "libPods-Corona - COVID-19.a"
                BlueprintName = "Pods-Corona - COVID-19"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>

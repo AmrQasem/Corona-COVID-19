@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "ADE6ACDF0714EC9264EFF98DA1AD7195"
-               BuildableName = "ModelMapper.framework"
+               BuildableName = "libModelMapper.a"
                BlueprintName = "ModelMapper"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
