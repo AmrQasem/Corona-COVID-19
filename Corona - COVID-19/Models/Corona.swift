@@ -27,7 +27,7 @@ class Corona: Mappable {
            CountryCode = try? map.from("CountryCode") ?? ""
            Slug = try? map.from("Slug") ?? ""
            NewConfirmed = try? map.from("NewConfirmed") ?? 0
-           NewConfirmed = try? map.from("NewConfirmed") ?? 0
+           TotalConfirmed = try? map.from("TotalConfirmed") ?? 0
            NewDeaths = try? map.from("NewDeaths")  ?? 0
            TotalDeaths = try? map.from("TotalDeaths") ?? 0
            NewRecovered = try? map.from("NewRecovered") ?? 0

@@ -16,6 +16,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        let image = UIImage(named: "preview2")
+        UINavigationBar.appearance().setBackgroundImage(image, for: .default)
+        Thread.sleep(forTimeInterval: 3.0)
+
         return true
     }
 
